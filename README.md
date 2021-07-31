@@ -8,4 +8,4 @@ GitHub 用に utf-8 で記述する為に wsf 形式を使用
 var App = new ActiveXObject( "Excel.Application" );
 var WshShell = new ActiveXObject( "WScript.Shell" );
 ```
-HTML アプリケーションでももコピペで使いたいので new ActiveXObject を使用
+HTML アプリケーションでもコピペで使いたいので new ActiveXObject を使用
