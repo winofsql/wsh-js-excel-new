@@ -1,7 +1,7 @@
 # wsh-js-excel-new
 ```javascript
     "code-runner.executorMapByFileExtension": {
-        ".wsf": "cscript //Nologo",
+        ".wsf": "cscript //Nologo"
     }
 ```
 ブックを作成してセルに値をセットして Excel で起動
