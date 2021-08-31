@@ -1,4 +1,9 @@
 # wsh-js-excel-new
+```javascript
+    "code-runner.executorMapByFileExtension": {
+        ".wsf": "cscript //Nologo",
+    }
+```
 ブックを作成してセルに値をセットして Excel で起動
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
