@@ -1,4 +1,5 @@
 # wsh-js-excel-new
+## add settings.json ( Code Runner )
 ```javascript
     "code-runner.executorMapByFileExtension": {
         ".wsf": "cscript //Nologo"
